@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041534282634",
+    "project_id": "sprintsheros",
+    "storage_bucket": "sprintsheros.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041534282634:android:b0ba1261ff77b15b783673",
+        "android_client_info": {
+          "package_name": "com.example.sprintsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBDtVHgmnA9hlcXDf1bwL5zTyikWtX1Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
